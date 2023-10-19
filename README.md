@@ -1,2 +1,2 @@
-# calculator-using-function
-Calculator Using Function in Python
+# calculator-using-function-constructor
+Calculator Using Function and constructor using Python
