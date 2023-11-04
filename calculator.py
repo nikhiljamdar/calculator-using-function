@@ -23,7 +23,7 @@ elif choice == "*":
 elif choice == "/":
     print(div(a,b))
 else:
-    print("Invalid Input")
+    print("User Invalid Input")
 
 
 
